@@ -10,3 +10,4 @@
 Bielhahaha/Bielhahaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://tenor.com/pt-BR/view/comemorando-palmeiras-palmeirense-ganhamos-vit%C3%B3ria-gif-1484876202432838773)
